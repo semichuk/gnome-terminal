@@ -2,7 +2,7 @@
 
 > A dark theme for [Gnome Terminal](https://wiki.gnome.org/Apps/Terminal).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshot1.png)
 
 ## Install
 
