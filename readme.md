@@ -2,7 +2,7 @@
 
 > A dark theme for [Gnome Terminal](https://wiki.gnome.org/Apps/Terminal).
 
-![Screenshot](./dracula-pro.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
